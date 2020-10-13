@@ -1,6 +1,6 @@
 # ⛏️ EndPoints
 
-## 🙎 Usuários
+## 📂 Images
 
 ### GET All Images
 
